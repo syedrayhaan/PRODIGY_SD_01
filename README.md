@@ -15,7 +15,7 @@ This Python program provides a versatile temperature conversion tool that allows
 **Usage:**
 
 1. **Clone the repository** to your local machine.
-2. **Run the Python script** (e.g., `python temperature_converter.py`)
+2. **Run the Python script** (e.g., `python temperature.py`)
 3. **Enter the temperature value** and **select the desired unit** (C, F, or K).
 4. **The program will output** the equivalent temperatures in the other two units.
 
